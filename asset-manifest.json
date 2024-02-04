@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FOODUU/static/css/main.987ac04e.css",
+    "main.js": "/FOODUU/static/js/main.d3682085.js",
+    "static/js/787.910db87d.chunk.js": "/FOODUU/static/js/787.910db87d.chunk.js",
+    "static/media/cheff.png": "/FOODUU/static/media/cheff.73e7742969533f1c7820.png",
+    "static/media/c3.png": "/FOODUU/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/f5.png": "/FOODUU/static/media/f5.1929b818c42f7c556b01.png",
+    "static/media/fi3.png": "/FOODUU/static/media/fi3.80deaafbc1e0520c58e6.png",
+    "static/media/i1.png": "/FOODUU/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/momo.png": "/FOODUU/static/media/momo.cf7b932168254bf4ac68.png",
+    "static/media/hero-bg.png": "/FOODUU/static/media/hero-bg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/FOODUU/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/FOODUU/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/visa.png": "/FOODUU/static/media/visa.16199123cab9531932f3.png",
+    "static/media/chef1.png": "/FOODUU/static/media/chef1.150c4765db0e381a34af.png",
+    "static/media/emptyCart.svg": "/FOODUU/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/FOODUU/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/FOODUU/index.html",
+    "main.987ac04e.css.map": "/FOODUU/static/css/main.987ac04e.css.map",
+    "main.d3682085.js.map": "/FOODUU/static/js/main.d3682085.js.map",
+    "787.910db87d.chunk.js.map": "/FOODUU/static/js/787.910db87d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.987ac04e.css",
+    "static/js/main.d3682085.js"
+  ]
+}
